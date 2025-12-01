@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.text5{
+  background-color: #F3FCF7;
+  height: 290px;
+  width: 290px;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+  
